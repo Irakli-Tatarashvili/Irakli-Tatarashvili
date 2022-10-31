@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Irakli-Tatarashvili
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, ANGULAR, BOOSTRAP 5
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, ANGULAR, BOOTSTRAP 5
 - 📫 How to reach me (CURRENTLY LEARNING)
